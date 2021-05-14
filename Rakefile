@@ -3,7 +3,7 @@ require "jekyll"
 require "listen"
 
 def listen_ignore_paths(base, options)
-  [
+  [ 
     /_config\.ya?ml/,
     /_site/,
     /\.jekyll-metadata/
