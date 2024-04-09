@@ -2,9 +2,10 @@
 
 I’m a software developer and aspiring audio engineer. Experiencing my own and others creations never gets old for me, and drives my continuous improvement. I’m constantly diving deeper into my interests, and when I surprise myself with what I come up with it’s a never-ending feedback loop.
 
+
+<!-- 
 Through experience in class, freelance, and side projects, I’ve worked with a number of technologies. On the frontend, I’ve used Javascript, including React and Redux frameworks to build intuitive interfaces. On the other side of the stack, I’ve leveraged Python with frameworks such as Flask as well as Express.js to build rich backends. I also have solid knowledge of databases, having taken database management systems as part of my undergrad, and working with SQL and object relational models during my bootcamp. Lately, I’m working on training a music ai with a large distributed data set.
 
-<!--
 **samhovie/samhovie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
